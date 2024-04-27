@@ -2,8 +2,7 @@
 <h1>Hi 👋</h1>
 <h2>I'm Khushal Mali</h2>
 
-<h4 >
-Full Stack Adventurer | Code enthusiast | Let's make things happen! 🚀👨‍💻
+<h4 ><i>Full Stack Adventurer | Code enthusiast | Let's make things happen! 🚀👨‍💻</i>
 </h4>
 
 <h2>GitHub Stats</h2>
