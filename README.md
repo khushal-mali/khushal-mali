@@ -3,7 +3,7 @@
 <h2>I'm Khushal Mali</h2>
 
 <h4 >
-  Full Stack Developer | JavaScript, React, Node | Passion for innovation | Let's craft exceptional digital experiences! 👨‍💻✨
+Full Stack Adventurer | Code enthusiast | Let's make things happen! 🚀👨‍💻
 </h4>
 
 <h2>GitHub Stats</h2>
