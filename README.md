@@ -30,4 +30,4 @@ My Github Stats
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=git,docker,vscode,figma,webflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,vscode,figma)](https://skillicons.dev)
