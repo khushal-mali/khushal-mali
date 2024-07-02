@@ -1,5 +1,5 @@
 
-<h1>Hi 👋</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h2>I'm Khushal Mali</h2>
 
 <h4 ><i>Full Stack Adventurer | Code enthusiast | Let's make things happen! 🚀👨‍💻</i>
