@@ -11,10 +11,7 @@
 My Github Stats
 </summary>
 
-![Khushal' Github Stats](https://github-readme-stats.vercel.app/api?username=khushal8448=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
-![Khushal' Streak](https://github-readme-streak-stats.herokuapp.com/?user=khushal8448=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
+![Khushal's Github Stats](https://github-readme-stats.vercel.app/api?username=khushal8448&show_icons=true&hide_title=true&count_private=true&theme=dark)
 </details>
 
 <h2>Languages</h2>
