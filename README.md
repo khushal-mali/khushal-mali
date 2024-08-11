@@ -21,14 +21,12 @@
   I'm a Fullstack Developer with a knack for building scalable web applications. My expertise lies in working with modern JavaScript frameworks and backend technologies. I enjoy solving complex problems and collaborating with others to create impactful solutions.
 </p>
 
-- 🔭 I’m currently working on **[Project Name/Your Latest Project](#)**
-- 🌱 I’m currently learning **GraphQL** and **Microservices Architecture**
+- 🔭 I’m currently working as **Full Stack Developer Intern**
+- 🌱 I’m currently learning **GraphQL**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with **Docker and Kubernetes**
 - 💬 Ask me about **JavaScript, React, Node.js, Express**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khushal8448/) | [Twitter](https://twitter.com/khushal8448)
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under a minute!**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khushalmali/) | [Twitter](https://twitter.com/Khush_mali_)
 
 ---
 
