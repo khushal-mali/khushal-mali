@@ -24,7 +24,7 @@
 - 🔭 I’m currently working as **Full Stack Developer Intern**
 - 🌱 I’m diving deep into **GraphQL** and **Microservices Architecture**
 - 💬 Ask me about **JavaScript, React, Node.js, Express**
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/khushalmali) | [Twitter](https://twitter.com/khushal8448)
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/khushalmali) | [Twitter](https://twitter.com/Khush_mali_)
 - ⚡ Fun fact: **I can solve a Rubik's cube in under a minute!**
 
 ---
@@ -89,10 +89,10 @@
   <a href="https://www.linkedin.com/in/khushalmali" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/khushal8448" target="_blank">
+  <a href="https://twitter.com/Khush_mali_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:khushal8448@example.com">
+  <a href="mailto:khushal8448@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/khushal8448" target="_blank">
