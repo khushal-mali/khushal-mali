@@ -25,7 +25,6 @@
 - 🌱 I’m diving deep into **GraphQL** and **Microservices Architecture**
 - 💬 Ask me about **JavaScript, React, Node.js, Express**
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/khushalmali) | [Twitter](https://twitter.com/Khush_mali_)
-- ⚡ Fun fact: **I can solve a Rubik's cube in under a minute!**
 
 ---
 
