@@ -22,10 +22,9 @@
 </p>
 
 - 🔭 I’m currently working as a **Full Stack Developer Intern**
-- 🌱 Deep diving into **GraphQL** and **Microservices Architecture**
+- 🌱 Deep diving into **GraphQL**
 - 💬 Ask me about **JavaScript, React, Node.js, Express**
 - 🎯 2024 Goals: **Contribute to Open Source & Explore DevOps**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under a minute!**
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/khushalmali) or [Twitter](https://twitter.com/Khush_mali_)
 
 ---
