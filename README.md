@@ -53,7 +53,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushal8448&theme=github_dark" alt="Profile Details" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushal8448&layout=compact&theme=dark" alt="Top Languages" />
     <img src="https://github-profile-trophy.vercel.app/?username=khushal8448&theme=darkhub" alt="GitHub Trophies" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=khushal8448&theme=react-dark" alt="Contribution Graph" />
+<!--     <img src="https://activity-graph.herokuapp.com/graph?username=khushal8448&theme=react-dark" alt="Contribution Graph" /> -->
   </p>
 </details>
 
