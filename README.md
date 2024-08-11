@@ -21,7 +21,7 @@
   Fullstack Developer with experience in building scalable web applications. I specialize in modern JavaScript frameworks and backend technologies. I thrive in collaborative environments and enjoy solving complex problems.
 </p>
 
-- 🔭 I’m currently working on **[Project Name/Your Latest Project](#)**
+- 🔭 I’m currently working as **Full Stack Developer Intern**
 - 🌱 I’m diving deep into **GraphQL** and **Microservices Architecture**
 - 💬 Ask me about **JavaScript, React, Node.js, Express**
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/khushalmali) | [Twitter](https://twitter.com/khushal8448)
