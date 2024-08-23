@@ -50,7 +50,7 @@
 <h2 align="center">🚀 My Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/khushal8448/project1" target="_blank">
+  <a href="https://github.com/khushal8448/casecobra-app" target="_blank">
     <img src="https://img.shields.io/badge/Project%201-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Project 1" />
   </a>
   <a href="https://github.com/khushal8448/project2" target="_blank">
