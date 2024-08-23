@@ -53,7 +53,7 @@
   <a href="https://github.com/khushal8448/casecobra-app" target="_blank">
     <img src="https://img.shields.io/badge/Project%201-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Project 1" />
   </a>
-  <a href="https://github.com/khushal8448/project2" target="_blank">
+  <a href="https://github.com/khushal8448/carepulse" target="_blank">
     <img src="https://img.shields.io/badge/Project%202-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Project 2" />
   </a>
   <a href="https://github.com/khushal8448/project3" target="_blank">
