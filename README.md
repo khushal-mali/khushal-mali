@@ -56,7 +56,7 @@
   <a href="https://github.com/khushal8448/carepulse" target="_blank">
     <img src="https://img.shields.io/badge/Project%202-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Project 2" />
   </a>
-  <a href="https://github.com/khushal8448/project3" target="_blank">
+  <a href="https://github.com/khushal8448/zoom_clone_app" target="_blank">
     <img src="https://img.shields.io/badge/Project%203-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Project 3" />
   </a>
 </p>
