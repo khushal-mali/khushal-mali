@@ -40,9 +40,9 @@
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushal8448&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushal8448&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushal8448&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khushal-mali&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushal-mali&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushal-mali&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -50,13 +50,13 @@
 <h2 align="center">🚀 My Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/khushal8448/casecobra-app" target="_blank">
+  <a href="https://github.com/khushal-mali/casecobra-app" target="_blank">
     <img src="https://img.shields.io/badge/Project%201-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Project 1" />
   </a>
-  <a href="https://github.com/khushal8448/carepulse" target="_blank">
+  <a href="https://github.com/khushal-mali/carepulse" target="_blank">
     <img src="https://img.shields.io/badge/Project%202-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Project 2" />
   </a>
-  <a href="https://github.com/khushal8448/zoom_clone_app" target="_blank">
+  <a href="https://github.com/khushal-mali/zoom_clone_app" target="_blank">
     <img src="https://img.shields.io/badge/Project%203-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Project 3" />
   </a>
 </p>
@@ -75,7 +75,7 @@
   <a href="mailto:khushal8448@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/khushal8448" target="_blank">
+  <a href="https://github.com/khushal-mali" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -85,7 +85,7 @@
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khushal8448&theme=radical&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=khushal-mali&theme=radical&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
