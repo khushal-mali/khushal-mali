@@ -24,7 +24,7 @@
 - 🔭 I’m currently working as a **Full Stack Developer Intern**
 - 🌱 Deep diving into **GraphQL**
 - 💬 Ask me about **JavaScript, React, Node.js, Express**
-- 🎯 2024 Goals: **Contribute to Open Source & Explore DevOps**
+- 🎯 2025 Goals: **Contribute to Open Source & Explore DevOps**
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/khushalmali) or [Twitter](https://twitter.com/Khush_mali_)
 
 ---
