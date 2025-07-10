@@ -69,7 +69,7 @@
   <a href="https://www.linkedin.com/in/khushalmali" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/Khush_mali_" target="_blank">
+  <a href="https://x.com/khushalmali_x" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:khushal8448@gmail.com">
