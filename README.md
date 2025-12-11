@@ -99,15 +99,15 @@ Secure real-time meetings with screen share & auth
 
 ---
 
-## 📈 **GitHub Stats**
+## 📈 GitHub Stats
 
 <div align="center">
 
-  <!-- Working Streak Stats -->
+  <!-- Streak Stats (Works) -->
   <img width="48%" src="https://streak-stats.demolab.com?user=khushal-mali&theme=tokyonight&hide_border=true" />
 
-  <!-- Working Top Languages (Mirror) -->
-  <img width="48%" src="https://github-readme-stats-git-master-kto.sgdev.org/api/top-langs/?username=khushal-mali&layout=compact&theme=tokyonight&hide_border=true&card_width=350" />
+  <!-- Top Languages (Working Mirror) -->
+  <img width="48%" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=khushal-mali&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
