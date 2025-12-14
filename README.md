@@ -2,9 +2,13 @@
 <h1 align="center">✨ Hey, I'm <strong>Khushal Mali</strong> 👋</h1>
 
 <div align="center">
-  <h2>👋 Hi, I'm <strong>Khushal Mali</strong> – <span style="color:#00F7FF;">Full Stack Developer</span></h2>
-  <p>Building scalable web & mobile applications with MERN, Next.js & React Native</p>
+  <h2>Full Stack Developer | MERN | Next.js | React Native</h2>
+  <p>Building modern, scalable web & mobile applications with JavaScript & TypeScript</p>
 </div>
+
+<p align="center">
+  <img src="https://github.com/khushal-mali/khushal-mali/blob/main/assets/hero-coding.gif?raw=true" alt="Coding Animation" width="400"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/khushal-mali">
@@ -23,11 +27,6 @@ I'm a passionate **Full-Stack Developer** from Mumbai, India, focused on buildin
 - ☁️ Cloud-native apps using **AWS, Docker, CI/CD**
 - 🤖 Experimental projects with **AI & Automation**
 - 📱 Apps using **MERN, React Native, Prisma & Supabase**
-
-📮 **Reach me anytime:**  
-📧 Email: **[khushalmali8448@gmail.com](mailto:khushalmali8448@gmail.com)**  
-🌐 Portfolio: [**khushalmali.xyz**](https://khushalmali.xyz)  
-🔗 LinkedIn: [**linkedin.com/in/khushalmali**](https://www.linkedin.com/in/khushalmali/)
 
 ---
 
@@ -86,7 +85,7 @@ Secure real-time meetings with screen share & authentication
 
 <div align="center">
   <img width="48%" src="https://streak-stats.demolab.com?user=khushal-mali&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=khushal-mali&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- <img width="48%" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=khushal-mali&layout=compact&theme=tokyonight&hide_border=true" /> -->
 </div>
 
 ---
