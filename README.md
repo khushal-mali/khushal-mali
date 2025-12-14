@@ -71,7 +71,7 @@ I'm a passionate **Full-Stack Developer** from Mumbai, India focused on building
 
 Manage Your Finances with Intelligence
 **Tech:** Next.js, PostgreSQL, Prisma, Clerk, Inngest, Google Gemini AI, Shadcn UI.
-🔗 https://github.com/khushal-mali/ai-workout-tracker
+🔗 https://github.com/khushal-mali/welth-ai-finance-platform
 
 ---
 
