@@ -2,7 +2,8 @@
 <h1 align="center">✨ Hey, I'm <strong>Khushal Mali</strong> 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=24&color=00F7FF&width=600&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+React+Native;JavaScript+%7C+TypeScript+Enthusiast;Building+Scalable+Digital+Experiences" />
+  <h2>👋 Hi, I'm <strong>Khushal Mali</strong> – <span style="color:#00F7FF;">Full Stack Developer</span></h2>
+  <p>Building scalable web & mobile applications with MERN, Next.js & React Native</p>
 </div>
 
 <p align="center">
