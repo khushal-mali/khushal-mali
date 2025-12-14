@@ -67,19 +67,19 @@ I'm a passionate **Full-Stack Developer** from Mumbai, India focused on building
 
 ---
 
+### 🚀 **Wealth: Personal Finance Management**
+
+Manage Your Finances with Intelligence
+**Tech:** Next.js, PostgreSQL, Prisma, Clerk, Inngest, Google Gemini AI, Shadcn UI.
+🔗 https://github.com/khushal-mali/ai-workout-tracker
+
+---
+
 ### 🚀 **AI Workout Tracker**
 
 AI-powered cross-platform fitness application  
 **Tech:** React Native, Expo, Sanity, Vision Camera  
 🔗 https://github.com/khushal-mali/ai-workout-tracker
-
----
-
-### 🌍 **Airbnb Clone**
-
-Advanced booking platform with filtering, maps & UI  
-**Tech:** Next.js, Tailwind, Prisma, MongoDB  
-🔗 https://github.com/khushal-mali/airbnbcloneproject
 
 ---
 
