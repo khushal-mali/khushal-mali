@@ -1,118 +1,122 @@
 <!-- HEADER -->
-<h1 align="center">✨ Hey, I'm <strong>Khushal Mali</strong> 👋</h1>
-
-<div align="center">
-  <h2>Full Stack Developer | MERN | Next.js | React Native</h2>
-  <p>Building modern, scalable web & mobile applications with JavaScript & TypeScript</p>
-</div>
+<h1 align="center">Khushal Mali</h1>
 
 <p align="center">
-  <img src="https://github.com/khushal-mali/khushal-mali/blob/main/assets/hero-coding.gif?raw=true" alt="Coding Animation" width="400"/>
+  <strong>Full Stack Developer</strong> · MERN · Next.js · React Native  
+  <br />
+  Designing and engineering scalable web & mobile applications with JavaScript and TypeScript
+</p>
+
+<p align="center">
+  <img src="https://github.com/khushal-mali/khushal-mali/blob/main/assets/hero-coding.gif?raw=true" alt="Coding" width="420" />
 </p>
 
 <p align="center">
   <a href="https://github.com/khushal-mali">
-    <img src="https://komarev.com/ghpvc/?username=khushal-mali&label=Profile%20Views&color=00d1ff&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=khushal-mali&label=Profile%20Views&color=0e75b6&style=flat-square" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm a passionate **Full-Stack Developer** from Mumbai, India, focused on building:
+I’m a **Full Stack Developer based in Mumbai, India**, focused on building **high-quality, production-ready web and mobile applications**.
 
-- ⚡ Modern, scalable **Web & Mobile Applications**
-- 🧠 Clean, maintainable architecture with **React, Next.js & TypeScript**
-- ☁️ Cloud-native apps using **AWS, Docker, CI/CD**
-- 🤖 Experimental projects with **AI & Automation**
-- 📱 Apps using **MERN, React Native, Prisma & Supabase**
+I care deeply about:
+- Clean architecture and maintainable code
+- Performance, scalability, and security
+- Developer experience and UI precision
+- Solving real-world problems with modern technology
 
----
-
-## 🎨 Tech Stack
-
-### **Frontend**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css" height="50" />
-</p>
-
-### **Backend**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" height="50" />
-</p>
-
-### **Mobile**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="50"/> 
-  <br/>React Native (Expo)
-</p>
-
-### **DevOps & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman" height="50" />
-</p>
+My work primarily revolves around **React, Next.js, Node.js, and TypeScript**, with hands-on experience across cloud, databases, and real-time systems.
 
 ---
 
-## 🏆 Featured Projects
+## Technology Stack
 
-> Click any project to explore the code.
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css" height="48" />
+</p>
 
-### 🚀 **Wealth: Personal Finance Management**
-Manage your finances with intelligence.  
-**Tech:** Next.js, PostgreSQL, Prisma, Clerk, Inngest, Google Gemini AI, Shadcn UI  
-🔗 [GitHub Repository](https://github.com/khushal-mali/welth-ai-finance-platform)
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" height="48" />
+</p>
 
-### 🚀 **AI Workout Tracker**
-AI-powered cross-platform fitness app  
-**Tech:** React Native, Expo, Sanity, Vision Camera  
-🔗 [GitHub Repository](https://github.com/khushal-mali/ai-workout-tracker)
+### Mobile
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="48" />
+  <br />
+  React Native (Expo)
+</p>
 
-### ⚡ **Slacky Chat App**
-Real-time chat with groups, media & typing indicators  
-**Tech:** MERN, Socket.io, TypeScript  
-🔗 [GitHub Repository](https://github.com/khushal-mali/slacky_chat)
-
-### 📹 **Yoom – Video Conferencing App**
-Secure real-time meetings with screen share & authentication  
-**Tech:** Next.js, Clerk, Stream  
-🔗 [GitHub Repository](https://github.com/khushal-mali/Yoom)
+### DevOps & Tooling
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman" height="48" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## Selected Projects
 
-<div align="center">
+### Wealth — Personal Finance Platform
+A modern finance management platform with intelligent insights.  
+**Stack:** Next.js, PostgreSQL, Prisma, Clerk, Inngest, Google Gemini AI, shadcn/ui  
+🔗 https://github.com/khushal-mali/welth-ai-finance-platform
+
+---
+
+### AI Workout Tracker
+Cross-platform fitness application powered by AI-assisted form correction.  
+**Stack:** React Native, Expo, Sanity CMS, Vision Camera  
+🔗 https://github.com/khushal-mali/ai-workout-tracker
+
+---
+
+### Slacky — Real-Time Chat Application
+Scalable real-time messaging with groups, media sharing, and typing indicators.  
+**Stack:** MERN, Socket.io, TypeScript  
+🔗 https://github.com/khushal-mali/slacky_chat
+
+---
+
+### Yoom — Video Conferencing Platform
+Secure video conferencing with authentication and screen sharing.  
+**Stack:** Next.js, Clerk, Stream  
+🔗 https://github.com/khushal-mali/Yoom
+
+---
+
+## GitHub Activity
+
+<p align="center">
   <img width="48%" src="https://streak-stats.demolab.com?user=khushal-mali&theme=tokyonight&hide_border=true" />
-  <!-- <img width="48%" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=khushal-mali&layout=compact&theme=tokyonight&hide_border=true" /> -->
-</div>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/khushalmali">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
   <a href="mailto:khushalmali8448@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
   <a href="https://github.com/khushal-mali">
-    <img src="https://skillicons.dev/icons?i=github" width="50"/>
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
 </p>
 
 ---
 
-## 🎯 Fun Facts
+<p align="center">
+  <em>Always open to meaningful opportunities and challenging problems.</em>
+</p>
 
-- 🧩 I love building mini side projects  
-- 🎨 I enjoy UI animations & micro-interactions  
-- 🎧 I code best with music  
-- 🧠 I pick up new tech super fast  
-
----
-
-<h3 align="center">⭐ If you like my work, consider giving a star!</h3>
+<p align="center">
+  ⭐ If you find my work valuable, consider starring the repositories.
+</p>
