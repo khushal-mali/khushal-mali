@@ -89,11 +89,12 @@ Secure video conferencing with authentication and screen sharing.
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=khushal-mali&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=khushal-mali&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushal-mali&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=khushal-mali&theme=tokyonight&hide_border=true" />
-</p>
+>
 
 ---
 
